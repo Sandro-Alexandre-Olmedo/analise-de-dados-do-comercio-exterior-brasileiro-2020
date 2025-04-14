@@ -8,11 +8,9 @@
 
 ![comex](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/comex.png)
 
-<div style="text-align: justify">
- 
-</div>
-
-<p style="text-align: justify;">Atenção: Pode ser que algumas palavras mudem para outras de sinônimos parecidos se este projeto for aberto em navegadores de alguns celulares e tornar a leitura confusa, dando a impressão que o autor cometeu equívocos na escrita. Ao abri-lo em um computador comum, tudo certo, já ao abri-lo em um determinado celular algumas palavras mudaram. Esta própria mensagem de atenção pode sofrer alterações...</p>
+> **Atenção:**
+>
+> Pode ser que algumas palavras mudem para outras de sinônimos parecidos se este projeto for aberto em navegadores de alguns celulares e tornar a leitura confusa, causando a impressão que o autor cometeu equívocos na escrita. Ao abri-lo em um computador comum, tudo certo, já ao abri-lo em um determinado celular algumas palavras mudaram. Esta própria mensagem de atenção pode sofrer alterações...
 
 # Introdução parcial
 
