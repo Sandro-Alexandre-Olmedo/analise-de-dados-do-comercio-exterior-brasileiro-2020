@@ -1,5 +1,5 @@
-<h1>
+<h2>
 Projeto de Análise de Dados de Importação do Comércio Exterior Brasileiro 2020 
 <br>
-com linguagem de programação Python, SQL e serviços da Amazon Web Services
-</h1>
+Com linguagem de programação Python, SQL e serviços da Amazon Web Services
+</h2>
