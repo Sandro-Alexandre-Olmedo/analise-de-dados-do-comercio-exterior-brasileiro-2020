@@ -50,8 +50,15 @@ Sendo assim, saber detalhadamente como tudo ocorre é primordial nesse mundo, po
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/7.2consultaathenagraficopython.png)
 
 
+# Passos
 
+> No diretório deste projeto segue a `Documentação imp_2020.html` que pode ser aberto em qualquer navegador, seu conteúdo é um espelho do código principal `imp_2020.ipynb` criado no `Visual Studio Code`;
+> Dentro do diretório existem subdiretórios com os arquivos `CSV's` originais, alguns chegam a pouco mais de 400 megabytes;
+> Também existe uma pasta `images` com imagens geradas durante a execução desde projeto e outra pasta `gráficos em power bi` com gráficos gerados a partir de arquivos `CSV's` criados em consultas no `Python` e em consultas no `Athena`.
+> 
+> Basicamente para replicar este projeto em seu sistema local ou online você precisará criar pastas com os mesmos nomes das pastas deste projeto e que iniciam com o nome `csv` e durante a execução do código salvar cada `arquivo CSV` em sua respectiva pasta; 
+> Basta seguir todos os passos da `Documentação imp_2020.html` ou do código principal `imp_2020.ipynb` e chegar aos mesmos resultados.
 
-
+Grato e atenciosamente.
          
 
