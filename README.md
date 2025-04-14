@@ -65,6 +65,8 @@ Para a execução de parte deste projeto foram escolhidos alguns serviços da Am
 > Basta seguir todos os passos da `Documentação imp_2020.html` ou do código principal `imp_2020.ipynb` e chegar aos mesmos resultados.
 > 
 > Mais detalhes no próprio código principal `imp_2020.ipynb`.
+>
+> Se por ventura algum arquivo não abrir direto no `GitHub` o mesmo poderá ser baixado e aberto na máquina local.
 > 
 Grato e atenciosamente.
 
