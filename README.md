@@ -50,9 +50,9 @@ Para a execução de parte deste projeto foram escolhidos alguns serviços da Am
 # Gráficos de exemplo
 Gráfico em Python
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/1consultaathenagraficopython.png)
-Gráfico em Python
+Gráfico em Power BI
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/5consultaathenagraficobi.png)
-Gráfico em Python
+Gráfico em Power BI
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-do-comercio-exterior-brasileiro-2020/blob/main/images/7.2consultaathenagraficobi.png)
 
 
