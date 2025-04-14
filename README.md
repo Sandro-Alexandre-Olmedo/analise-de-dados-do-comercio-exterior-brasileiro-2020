@@ -53,7 +53,7 @@ Para a execução de parte deste projeto foram escolhidos alguns serviços da Am
 
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/5consultaathenagraficobi.png)
 
-![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/7.2consultaathenagraficopython.png)
+![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-do-comercio-exterior-brasileiro-2020/blob/main/images/7.2consultaathenagraficobi.png)
 
 
 # Etapas ou replicação desde projeto
