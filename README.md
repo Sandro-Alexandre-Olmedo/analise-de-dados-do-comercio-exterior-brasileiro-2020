@@ -26,6 +26,8 @@ O comércio exterior ou Comex é uma área complexa e que esta em constante evol
 
 Sendo assim, saber detalhadamente como tudo ocorre é primordial nesse mundo, pois, dados ou informações erradas podem gerar grandes prejuízos.
 
+Para a execução de parte deste projeto foram escolhidos alguns serviços da Amazon Web Services (AWS) e as linguagens de programação Python e SQL.
+
 # Visão Geral da Solução na AWS
 
 ![AWS](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/visaogeralsolucaoaws.png)
