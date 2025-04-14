@@ -29,6 +29,18 @@ Sendo assim, saber detalhadamente como tudo ocorre é primordial nesse mundo, po
 # Visão Geral da Solução na AWS
 
 ![AWS](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/visaogeralsolucaoaws.png)
+> O Usuário faz o upload de um arquivo para o `bucket` da `Amazon S3`
+>
+> A `AWS Glue` cataloga a localização, schema e estrutura dos dados
+> 
+> O catálogo com localização, schema e estrutura dos dados são criados a partir da criação das tabelas do `Athena` no próprio console do `Glue` ou direto via código no console do `Athena`
+>
+> As consultas do `Athena` acessam o `Glue` para verificar informações sobre os dados e só então acessam o bucket por meio de consultas SQL
+>
+> Os resultados são exibidos na tela ao usuário, caso o usuário necessite pode fazer o download dos resultados em CSV 
+>
+> **Observação:** Essa é uma aplicação simples, o S3 e Athena podem interagir com diversas ferramentas da própria AWS, API’s e serviços de terceiros, tanto no recebimento quanto no envio de dados
+
 
 
          
