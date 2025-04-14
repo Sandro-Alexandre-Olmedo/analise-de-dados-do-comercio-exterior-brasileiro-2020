@@ -66,7 +66,7 @@ Para a execução de parte deste projeto foram escolhidos alguns serviços da Am
 > 
 > Mais detalhes no próprio código principal `imp_2020.ipynb`.
 >
-> Se por ventura algum arquivo não abrir direto no `GitHub` o mesmo poderá ser baixado e aberto na máquina local.
+> Se por ventura algum arquivo não abrir direto no `GitHub` e surgir a mensagem `(Sorry about that, but we can’t show files that are this big right now.)` o mesmo poderá ser baixado e aberto na máquina local.
 > 
 Grato e atenciosamente.
 
