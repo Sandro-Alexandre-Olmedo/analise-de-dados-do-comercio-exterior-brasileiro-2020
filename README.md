@@ -63,7 +63,8 @@ Para a execução de parte deste projeto foram escolhidos alguns serviços da Am
 > Basicamente para replicar este projeto em um sistema local ou online é necessário criar pastas com os mesmos nomes das pastas deste projeto e que iniciam com o nome `csv` e durante a execução do código cada arquivo `CSV` gerado ou feito Download deverá ser renomeado conforme o código e salvo em sua respectiva pasta; 
 >  
 > Basta seguir todos os passos da `Documentação imp_2020.html` ou do código principal `imp_2020.ipynb` e chegar aos mesmos resultados.
-Mais detalhes no próprio código principal `imp_2020.ipynb`.
+> 
+> Mais detalhes no próprio código principal `imp_2020.ipynb`.
 > 
 Grato e atenciosamente.
 
