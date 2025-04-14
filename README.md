@@ -8,7 +8,7 @@
 
 ![comex](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/comex.png)
 
-# Introdução
+# Introdução parcial
 
 ## Quanto aos dados:
 
