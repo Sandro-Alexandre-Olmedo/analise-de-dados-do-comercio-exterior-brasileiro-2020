@@ -50,6 +50,7 @@ Para a execução de parte deste projeto foram escolhidos alguns serviços da Am
 # Gráficos de exemplo
 
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/1consultaathenagraficopython.png)
+Fonte: Gráfico em Python
 
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/5consultaathenagraficobi.png)
 
