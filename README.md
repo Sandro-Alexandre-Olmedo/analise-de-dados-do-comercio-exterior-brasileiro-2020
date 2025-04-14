@@ -10,7 +10,7 @@ Projeto de Análise de Dados de Importação do Comércio Exterior Brasileiro 20
 
 ![comex](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/comex.png)
 
-# Introdução:
+# Introdução
 
 ## Quanto aos dados:
 
