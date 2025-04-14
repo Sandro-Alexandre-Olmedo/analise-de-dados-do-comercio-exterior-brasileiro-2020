@@ -56,7 +56,7 @@ Para a execução de parte deste projeto foram escolhidos alguns serviços da Am
 
 > No diretório deste projeto segue a `Documentação imp_2020.html` que pode ser aberto em qualquer navegador, seu conteúdo é um espelho do código principal `imp_2020.ipynb` criado no `Visual Studio Code`;
 > 
-> Dentro do diretório existem subdiretórios de exemplo e vazios e que iniciam com o nome `csv`, foi decidido deixá-los vazios pelo fato de que alguns arquivos são muito grandes para upload no `GitHub`;
+> Dentro do diretório existem subdiretórios de exemplo e que iniciam com o nome `csv`, foi decidido deixar o subdiretório `csv original casos covid` vazio pelo fato de que o arquivo `caso_full.csv` é muito grande para upload no `GitHub`, já o subdiretório `csv original comex stat` falta o arquivo principal `IMP_2020.csv` por também ser muito grande, ambos os arquivos podem ser baixados na execução do código principal;
 > 
 > Também existe uma pasta `images` com imagens geradas durante a execução desde projeto e outra pasta `gráficos em power bi` com gráficos gerados a partir de arquivos `CSV's` criados em consultas no `Python` e em consultas no `Athena`.
 > 
