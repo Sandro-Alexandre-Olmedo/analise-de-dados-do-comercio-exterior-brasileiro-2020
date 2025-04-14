@@ -41,6 +41,16 @@ Sendo assim, saber detalhadamente como tudo ocorre é primordial nesse mundo, po
 >
 > **Observação:** Essa é uma aplicação simples, o S3 e Athena podem interagir com diversas ferramentas da própria AWS, API’s e serviços de terceiros, tanto no recebimento quanto no envio de dados
 
+# Gráficos de exemplo
+
+![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/1consultaathenagraficopython.png)
+
+![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/5consultaathenagraficobi.png)
+
+![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/7.2consultaathenagraficopython.png)
+
+
+
 
 
          
