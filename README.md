@@ -48,12 +48,11 @@ Para a execução de parte deste projeto foram escolhidos alguns serviços da Am
 > **Observação:** Essa é uma aplicação simples, o S3 e Athena podem interagir com diversas ferramentas da própria AWS, API’s e serviços de terceiros, tanto no recebimento quanto no envio de dados
 
 # Gráficos de exemplo
-
+Gráfico em Python
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/1consultaathenagraficopython.png)
-Fonte: Gráfico em Python
-
+Gráfico em Python
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-de-comercio-exterior/blob/main/images/5consultaathenagraficobi.png)
-
+Gráfico em Python
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-do-comercio-exterior-brasileiro-2020/blob/main/images/7.2consultaathenagraficobi.png)
 
 
