@@ -56,7 +56,7 @@ Gráfico em Power BI
 ![Gráficos](https://github.com/Sandro-Alexandre-Olmedo/analise-de-dados-do-comercio-exterior-brasileiro-2020/blob/main/images/7.2consultaathenagraficobi.png)
 
 
-# Etapas ou replicação desde projeto
+# Etapas ou replicação deste projeto
 
 > No diretório deste projeto segue a `Documentação imp_2020.html` que pode ser aberto em qualquer navegador, seu conteúdo é um espelho do código principal `imp_2020.ipynb` criado no `Visual Studio Code`;
 > 
